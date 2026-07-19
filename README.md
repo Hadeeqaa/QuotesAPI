@@ -1,17 +1,17 @@
 
 # Quotes API 
-a quotes randomizer that shows a number of quotes randomly based on the number selected only to logged in users.
+a quotes randomizer that shows a number of quotes based on the number selected.
 
 ## Features 
 - get a quote or list of quotes randomly
 - only logged in users get result based on the endpoint
 - quotes database is expanded through a superuser Admin
 - allows user to reroll the result by hitting endpoint again
-- 
+  
 ## Tech Stack
 - language: python
 - framework: django rest framework
-- usage : Postman, Hoppscotch
+- usage : Postman,terminal, Hoppscotch, 
 
 
 ## Usage 
