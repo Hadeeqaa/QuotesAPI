@@ -40,7 +40,5 @@ for instance : test endpoint through cli terminal
 curl -H "Authorization (Bearer Jwt Token)" "url endpoint"
 ```
 ## further imrpovements
-- expanding database to 300 quotes without lag 
-- allowing users to reroll 
-- letting users select from a range of quotes 
+- expanding database to 300 quotes
 
