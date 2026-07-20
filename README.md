@@ -1,6 +1,6 @@
 
 # Quotes API 
-a quotes randomizer that shows a number of quotes based on the number selected.
+a quotes randomizer that shows a list of quotes based on the number selected.
 
 ## Features 
 - get a quote or list of quotes randomly
